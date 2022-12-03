@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web Development 
 - 🌱 I’m currently learning ...Java Script
 - 💞️ I’m looking to collaborate on ...Google 
-- 📫 How to reach me ..._dhruv_kathrotiya_(insta)
+- 📫 How to reach me ..._dhruv_kathrotiya_(instagram)
 
 <!---
 dhruvkathrotiya/dhruvkathrotiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
